@@ -1,0 +1,13 @@
+ {
+    "authentication": {
+        "device_id": "1234567892",
+        "device_key": "hahcusa4queefa2taeghahhaigoRae7ul1chohxaesie"
+    },
+    "run_id": "1002",
+    "drop_id": "348220",
+    "log_date_time": "2018-02-19 14:02:42.22",
+    "log_type": "3",
+    "status_old": "100",
+    "status_new": "200",
+    "log_text": "Status changed from NEW to EN-ROUTE"
+ }

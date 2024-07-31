@@ -1,0 +1,1 @@
+web: gunicorn deliveryTrackingSystem.wsgi --log-file -

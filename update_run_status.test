@@ -1,0 +1,9 @@
+{
+    "authentication": {
+        "device_id": "1234567892",
+        "device_key": "hahcusa4queefa2taeghahhaigoRae7ul1chohxaesie"
+    },
+    "run_id": "12137",
+    "status_old": "100",
+    "status_new": "200"
+}
